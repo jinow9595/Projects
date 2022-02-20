@@ -1,0 +1,13 @@
+body {
+  /* w100 */
+  width: 100px;
+
+  /* w100p */
+  width: 100%;
+
+  /* w100e */
+  width: 100em;
+
+  /* h100 */
+  height: 100px;
+}
